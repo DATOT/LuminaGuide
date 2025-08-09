@@ -1,6 +1,5 @@
 # LuminaGuide
 
-__slogan: 
-"Ánh sáng soi đường tri thức
-Dẫn lối vững bước tương lai"
-__
+> slogan:
+> _"Ánh sáng soi đường tri thức_
+> _Dẫn lối vững bước tương lai"_
