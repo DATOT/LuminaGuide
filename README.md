@@ -1,4 +1,4 @@
-# LuminaGuide
+# Chou
 
 > ## Slogan:
 > _"Ánh sáng soi đường tri thức_  
